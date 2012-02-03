@@ -1,3 +1,6 @@
+# =====COPYRIGHT=====
+# Copyright 2007 - 2012 Service Repair Solutions, Inc.
+# =====COPYRIGHT=====
 # Be sure to restart your server when you modify this file.
 
 # Add new inflection rules using the following format

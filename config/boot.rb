@@ -1,3 +1,6 @@
+# =====COPYRIGHT=====
+# Copyright 2007 - 2012 Service Repair Solutions, Inc.
+# =====COPYRIGHT=====
 require 'rubygems'
 
 # Set up gems listed in the Gemfile.

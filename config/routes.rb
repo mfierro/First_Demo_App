@@ -1,3 +1,6 @@
+# =====COPYRIGHT=====
+# Copyright 2007 - 2012 Service Repair Solutions, Inc.
+# =====COPYRIGHT=====
 Blog::Application.routes.draw do
   # The priority is based upon order of creation:
   # first created -> highest priority.

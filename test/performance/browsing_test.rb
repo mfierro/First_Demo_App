@@ -1,3 +1,6 @@
+# =====COPYRIGHT=====
+# Copyright 2007 - 2012 Service Repair Solutions, Inc.
+# =====COPYRIGHT=====
 require 'test_helper'
 require 'rails/performance_test_help'
 

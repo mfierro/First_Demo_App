@@ -1,3 +1,6 @@
+# =====COPYRIGHT=====
+# Copyright 2007 - 2012 Service Repair Solutions, Inc.
+# =====COPYRIGHT=====
 Blog::Application.configure do
   # Settings specified here will take precedence over those in config/application.rb
 

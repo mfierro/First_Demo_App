@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- =====COPYRIGHT===== -->
+<!-- Copyright 2007 - 2012 Service Repair Solutions, Inc. -->
+<!-- =====COPYRIGHT===== -->
 <project version="4">
   <component name="DependencyValidationManager">
     <option name="SKIP_IMPORT_STATEMENTS" value="false" />
